@@ -8,8 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-##Introduction
-
 Here I am looking at the ToothGrowth Dataset.
 
 
