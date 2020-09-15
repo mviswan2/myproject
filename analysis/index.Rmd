@@ -11,5 +11,7 @@ editor_options:
 Here I am looking at the ToothGrowth Dataset.
 
 
+## Link to my analyses
 
+* [Teeth growth analysis](teeth.html)
 
