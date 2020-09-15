@@ -12,8 +12,6 @@ editor_options:
 
 Here I am looking at the ToothGrowth Dataset.
 
-```{r}
-write.csv(ToothGrowth, file = "data/teeth.csv")
-```
+
 
 
