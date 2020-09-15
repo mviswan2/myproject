@@ -6,7 +6,7 @@ output: workflowr::wflow_html
 editor_options:
   chunk_output_type: console
 ---
-Introduction
+## Introduction
 
 Here we will analyze Tooth Growth data.
 
