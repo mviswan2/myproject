@@ -8,4 +8,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+##Introduction
+
+Here I am looking at the ToothGrowth Dataset.
+
+```{r}
+write.csv(ToothGrowth, file = "data/teeth.csv")
+```
+
+
