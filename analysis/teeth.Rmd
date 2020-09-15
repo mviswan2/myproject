@@ -1,12 +1,12 @@
 ---
-title: "teeth"
-author: "mviswan2"
+title: "Teeth Analysis"
+author: "Mayuri Viswanathan"
 date: "2020-09-15"
 output: workflowr::wflow_html
 editor_options:
   chunk_output_type: console
 ---
-##Introduction
+Introduction
 
 Here we will analyze Tooth Growth data.
 
